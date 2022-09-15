@@ -1,4 +1,4 @@
 
-let naam = Pascal;
+let naam = 10;
 
-alert("naam");
+alert(naam);
