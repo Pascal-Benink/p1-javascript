@@ -1,1 +1,2 @@
-alert("Hello World");
+let num = 10
+alert("num");
