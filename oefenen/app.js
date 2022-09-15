@@ -1,6 +1,6 @@
 
 
-let num = 10;
+let naam = Pascal;
 
 
-alert("num");
+alert("naam");
