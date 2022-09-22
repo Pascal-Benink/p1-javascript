@@ -4,4 +4,12 @@ function kleur_aanpassen(){
 
     element.style.color = "red";
     element.style.fontWeight = "normal";
+    element.innerText = "Bwoa"
+}
+
+function ja_dag(){
+    let title = "titel";
+    let element = document.getElementById(title);
+
+    element.innerText = "Tabee"
 }
