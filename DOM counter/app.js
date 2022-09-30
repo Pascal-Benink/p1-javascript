@@ -1,4 +1,3 @@
-let button = document.getElementById("btn");
 let h1 = document.getElementById("h1");
 
 let count = 0;
