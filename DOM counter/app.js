@@ -9,7 +9,6 @@ function counter(){
     title.innerText = count + " Keer geklikt";
     document.body.style.backgroundColor = "blue";
     button.style.backgroundColor = "red"
-
 }
 
 function counter2() {
