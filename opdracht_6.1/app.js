@@ -1,4 +1,4 @@
-function kleur_aanpassen() {
+function kleur_aanpassen(){
     let title = "titel";
     let element = document.getElementById(title);
 
