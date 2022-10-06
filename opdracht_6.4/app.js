@@ -1,4 +1,6 @@
-function calculate() {
-    calculate(1,12);
+function calculate(num, num2) {
+    let awnser = num + num2;
+    console.log(awnser)
 }
-calculate
+
+calculate(8, 15);
