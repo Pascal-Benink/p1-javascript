@@ -1,22 +1,22 @@
 // oefening 1
-function calculate(num, num2) {
-    let awnser = num + num2;
+function calculate(x, y) {
+    let awnser = x + y;
     console.log(awnser);
 }
 
 calculate(8, 15);
 
 // oefening 2
-function multiplyByFive(num3) {
-    let awnser2 = num3 * 5;
+function multiplyByFive(num) {
+    let awnser2 = num * 5;
     console.log(awnser2);
 }
 
 multiplyByFive(7);
 
 // oefening 3
-function calculateMinutes(num4) {
-    let awnser3 = num4 / 60
+function calculateMinutes(num2) {
+    let awnser3 = num2 / 60
     console.log(awnser3)
 }
 calculateMinutes(3600)
