@@ -1,5 +1,5 @@
 let element1 = document.getElementById("antwoord")
-let product = prompt()
+let product = prompt("Hoeveel kost het product dat je wilt kopen?", 60)
 let budget = 100;
 
 if (budget > product) {
