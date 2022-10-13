@@ -4,7 +4,7 @@ element.innerText = getal
 function erbij() {
     getal = getal + 1
     element.innerText = getal
-    if (getal > 9) {
+    if (getal === 10) {
         getal = 0
         element.innerText = getal
     }
