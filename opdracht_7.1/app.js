@@ -1,7 +1,7 @@
 let element1 = document.getElementById("antwoord")
 
 let budget = 100;
-// Product weg vanwege opdracht_7.2
+// Product weg vanwege opdracht_7.2.
 let product = prompt("Hoeveel kost het product dat je wilt kopen?", 60)
 
 if (budget > product) {
