@@ -16,14 +16,9 @@ span.onclick = function() {
   modal.style.display = "none";
 }
 
-window.onclick = function(event) {
-  if (event.target == modal) {
-    modal.style.display = "none";
-  }
-}
 function leefcheck() {    
-    if (x > 18) {
-    window.location.href = "https://decity.nl";
+    if (x >= 18) {
+      window.location.replace("http://www.w3schools.com");
     } else {
     alert("helaas je bent te jong")
     }}
