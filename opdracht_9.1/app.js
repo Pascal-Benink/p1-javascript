@@ -20,5 +20,5 @@ function leefcheck() {
     if (x >= 18) {
       window.location.replace("http://www.w3schools.com");
     } else {
-    alert("helaas je bent te jong")
+      alert("helaas je bent te jong")
     }}
