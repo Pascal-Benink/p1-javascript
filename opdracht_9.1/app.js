@@ -23,5 +23,5 @@ function leefcheck() {
     alert("helaas je bent te jong")
     console.log(x)
   }
-  }
+}
 
