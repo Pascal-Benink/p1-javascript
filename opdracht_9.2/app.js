@@ -8,6 +8,7 @@ function openFace(){
     closeded.classList.contains("active")
 }
 function closedFace(){
+    console.log("test")
     closeded.classList.add("active")
     opening.classList.remove("active")
     opening.classList.contains("active")
