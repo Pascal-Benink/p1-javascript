@@ -1,6 +1,6 @@
 let modal = document.getElementById("myModal");
 
-let x = +document.getElementById("getal1").value;
+let x = document.getElementById("getal1").value;
 
 let btn = document.getElementById("myBtn");
 
@@ -16,8 +16,10 @@ span.onclick = function() {
 }
 
 function leefcheck() {    
+  }
    if (x > 18) {
+    console.log("hey")
     window.location.replace("http://www.w3schools.com");
   } else {
     alert("helaas je bent te jong")
-  }}
+  }
