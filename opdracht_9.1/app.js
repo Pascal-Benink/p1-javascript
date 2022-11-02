@@ -2,8 +2,6 @@ let modal = document.getElementById("myModal");
 
 let x = document.getElementById("getal1").value;
 
-let z = 0
-
 let btn = document.getElementById("myBtn");
 
 
@@ -18,8 +16,7 @@ span.onclick = function() {
 }
 
 function leefcheck() {  
-  z = x
-  if (z > 18) {
+  if (x > 18) {
     console.log("hey")
     window.location.replace("http://www.w3schools.com");
   } else {
