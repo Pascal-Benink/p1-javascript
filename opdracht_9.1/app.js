@@ -15,10 +15,10 @@ span.onclick = function() {
   modal.style.display = "none";
 }
 
-function leefcheck() {  
+function leefcheck() {
   if (x > 18) {
     console.log("hey")
-    window.location.replace("http://www.w3schools.com");
+    window.location.replace("https://decity.nl/");
   } else {
     alert("helaas je bent te jong")
     console.log(x)
