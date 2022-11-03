@@ -24,4 +24,3 @@ function leefcheck() {
     console.log(x)
   }
 }
-
