@@ -15,7 +15,6 @@ span.onclick = function() {
 function leefcheck() {
   let x = document.getElementById("getal1").value;
   if (x > 18) {
-    console.log("hey")
     window.location.replace("https://decity.nl/");
   } else {
     alert("helaas je bent te jong")
