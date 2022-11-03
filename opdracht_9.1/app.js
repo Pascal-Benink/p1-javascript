@@ -1,6 +1,6 @@
 let modal = document.getElementById("myModal");
 
-let x = document.getElementById("getal1").value;
+let x = document.getElementById("getal1").value;// alse je achter value een nummer zet dan blijft dat het nummer dit veranderd niet.
 
 let btn = document.getElementById("myBtn");
 
