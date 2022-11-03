@@ -5,7 +5,6 @@ let x = document.getElementById("getal1").value;// als je achter value een numme
 
 let btn = document.getElementById("myBtn");
 
-
 let span = document.getElementsByClassName("close")[0];
 
 btn.onclick = function() {
