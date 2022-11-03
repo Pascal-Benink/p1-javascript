@@ -22,7 +22,7 @@ function leefcheck() {
     window.location.replace("http://www.w3schools.com");
   } else {
     alert("helaas je bent te jong")
-    console.log(z)
+    console.log(x)
   }
 }
 
