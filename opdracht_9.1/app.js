@@ -19,6 +19,5 @@ function leefcheck() {
     window.location.replace("https://decity.nl/");
   } else {
     alert("helaas je bent te jong")
-    console.log(x)
   }
 }
